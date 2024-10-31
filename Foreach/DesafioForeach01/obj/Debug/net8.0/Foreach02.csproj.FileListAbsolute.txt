@@ -1,0 +1,14 @@
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.AssemblyInfoInputs.cache
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.AssemblyInfo.cs
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.csproj.CoreCompileInputs.cache
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\bin\Debug\net8.0\Foreach02.exe
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\bin\Debug\net8.0\Foreach02.deps.json
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\bin\Debug\net8.0\Foreach02.runtimeconfig.json
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\bin\Debug\net8.0\Foreach02.dll
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\bin\Debug\net8.0\Foreach02.pdb
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.dll
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\refint\Foreach02.dll
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.pdb
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\Foreach02.genruntimeconfig.cache
+C:\Users\55562188899\Desktop\Foreach\DesafioForeach01\obj\Debug\net8.0\ref\Foreach02.dll
