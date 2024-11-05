@@ -9,8 +9,24 @@ namespace ClasseObjeto.Classes
     {
         public string raca;
         public string cor;
-        public string name;
+        public string nome;
         public int idade;
 
+
+
+        public void FazerBarulho(string barulho = "Barulho Genérico")
+        {
+            // Console.WriteLine($"Som de animal qualquer");
+            Console.WriteLine($"Barulho do animal: {barulho}");
+            
+        }
+
+        public void Envelhecer()
+        {
+            idade = idade + 1;
+        }
+
     }
+
+    
 }
