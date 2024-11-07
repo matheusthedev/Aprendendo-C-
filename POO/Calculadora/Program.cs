@@ -1,22 +1,42 @@
-﻿using Calculadora;
+﻿Console.Write("Informe o primeiro número: ");
+float n1 = float.Parse(Console.ReadLine());
+Console.Write("Informe o segundo número: ");
+float n2 = float.Parse(Console.ReadLine());
 
+Console.Write($@"
+    1) Somar
+    2) Subtrair
+    3) Multiplicar
+    4) Dividir
+    Digite a operação: ");
+string operacao = Console.ReadLine();
+Console.WriteLine();
 
+Classe calculadoraDaAnna = new Calculadora();
 
-
-Console.WriteLine(@$"Selecione uma operação: 
-1. + 
-2. - 
-3. * 
-4. / ");
-
-int resposta = int.Parse(Console.ReadLine()!);
-if (resposta = 1)
+if (operacao == "1")
 {
-    Somar();
+    calculadoraDaAnna.Somar(n1, n2);
 }
+else if (operacao == "2")
+{
+    calculadoraDaAnna.Subtrair(n1, n2);
 
+}
+else if (operacao == "3")
+{
 
+    calculadoraDaAnna.Multiplicar(n1, n2);
+}
+else if (operacao == "4")
+{
+    calculadoraDaAnna.Dividir(n1, n2);
+} 
+else {
+    Console.WriteLine($"Operação Inválida!");
+    
+}
+Console.WriteLine();
 
-Console.WriteLine($"Indique um numero: ");
-Console.ReadLine();
-
+Console.WriteLine($"Obrigado por utilizar a Calculator, até logo!");
+Console.WriteLine();
