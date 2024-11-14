@@ -7,10 +7,10 @@ namespace JogoRpg
 {
     public class Rpg
     {
-        public string nome;
+        public string ? nome;
         public int idade;
-        public string armadura;
-        public string ia;
+        public string ? armadura;
+        public string ? ia;
 
         public void Atacar()
         {
