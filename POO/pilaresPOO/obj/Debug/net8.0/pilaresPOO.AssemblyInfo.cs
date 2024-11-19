@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pilaresPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+272ba9f721e83c48cef3b5c2837ec20738af9239")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c3f6a655254cc1a7cd3556c449af4d5b9f38b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("pilaresPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pilaresPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
